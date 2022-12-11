@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nguyen Van Trien
-- 👀 I’m interested in code, listening music, watch anime
+- 👀 I’m interested in coding, listening music, watching anime
 - 🌱 I’m currently learning PHP-Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <a href="http://fb.com/toroieno">Facebook</a>
